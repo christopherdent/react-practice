@@ -6,7 +6,7 @@ import React from 'react'
 const GifListContainer = () => {
   return (
     <div>
-        <h1>I'm the container</h1>
+        <h1>I'm the container!!</h1>
 
     </div>
   )
